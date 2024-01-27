@@ -53,7 +53,7 @@ header ul li a {
 
 header ul li a:hover {
     text-decoration: underline;
-    color: brown;
+    color: rgb(19, 16, 16);
 }
 
 .content {
